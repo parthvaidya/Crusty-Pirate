@@ -53,5 +53,6 @@ Space - Jump
 Right Click- to Attack
 
 # Credits: 
-This Game is inspired by the Game taught in this course: https://www.udemy.com/course/unreal-engine-2d/
-Shoutout to GameDev.tv and Kahn Alpar
+1. This Game is inspired by the Game taught in this course: https://www.udemy.com/course/unreal-engine-2d/
+
+2. Shoutout to GameDev.tv and Kahn Alpar
