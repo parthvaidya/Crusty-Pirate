@@ -14,7 +14,7 @@ Crusty Pirate is a 2D platformer game built in Unreal Engine using C++. Set in a
 
 # Gameplay:
 
-1. Play Game Here : 
+1. Play Game Here : https://drive.google.com/file/d/1antgxlgKY_m3gO3Nu6wiiDL3Vklu2v7D/view?usp=sharing
 
 2. Video Link: 
 
@@ -39,7 +39,7 @@ All core systems—including movement, collision, and enemy interactions—are i
 1. For Code, just clone the repository
 2. Open the Zip
 3. Open it in Unreal Engine 5.6
-4. Also, there is a Zip for exe file present to play the Game
+4. Also, there is a Zip for the exe file present to play the Game
 
 
 # Controls:
