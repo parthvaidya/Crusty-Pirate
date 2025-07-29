@@ -45,8 +45,11 @@ All core systems—including movement, collision, and enemy interactions—are i
 # Controls:
 
 A - Left 
+
 D - Right
+
 Space - Jump
+
 Right Click- to Attack
 
 # Credits: 
